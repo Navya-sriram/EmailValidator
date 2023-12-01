@@ -1,0 +1,14 @@
+C:\documents\Frostburg\Internship\Email Validator\EmailValidator\bin\Debug\net8.0\EmailValidator.exe
+C:\documents\Frostburg\Internship\Email Validator\EmailValidator\bin\Debug\net8.0\EmailValidator.deps.json
+C:\documents\Frostburg\Internship\Email Validator\EmailValidator\bin\Debug\net8.0\EmailValidator.runtimeconfig.json
+C:\documents\Frostburg\Internship\Email Validator\EmailValidator\bin\Debug\net8.0\EmailValidator.dll
+C:\documents\Frostburg\Internship\Email Validator\EmailValidator\bin\Debug\net8.0\EmailValidator.pdb
+C:\documents\Frostburg\Internship\Email Validator\EmailValidator\obj\Debug\net8.0\EmailValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\documents\Frostburg\Internship\Email Validator\EmailValidator\obj\Debug\net8.0\EmailValidator.AssemblyInfoInputs.cache
+C:\documents\Frostburg\Internship\Email Validator\EmailValidator\obj\Debug\net8.0\EmailValidator.AssemblyInfo.cs
+C:\documents\Frostburg\Internship\Email Validator\EmailValidator\obj\Debug\net8.0\EmailValidator.csproj.CoreCompileInputs.cache
+C:\documents\Frostburg\Internship\Email Validator\EmailValidator\obj\Debug\net8.0\EmailValidator.dll
+C:\documents\Frostburg\Internship\Email Validator\EmailValidator\obj\Debug\net8.0\refint\EmailValidator.dll
+C:\documents\Frostburg\Internship\Email Validator\EmailValidator\obj\Debug\net8.0\EmailValidator.pdb
+C:\documents\Frostburg\Internship\Email Validator\EmailValidator\obj\Debug\net8.0\EmailValidator.genruntimeconfig.cache
+C:\documents\Frostburg\Internship\Email Validator\EmailValidator\obj\Debug\net8.0\ref\EmailValidator.dll
